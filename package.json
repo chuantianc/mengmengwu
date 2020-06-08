@@ -8,12 +8,16 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "codemirror": "^5.54.0",
+    "codemirror-formatting": "^1.0.0",
     "core-js": "^3.6.5",
     "element-ui": "^2.4.5",
     "markdown-loader": "^5.1.0",
+    "script-loader": "^0.7.2",
     "vue": "^2.6.11",
     "vue-markdown": "^2.2.4",
-    "vue-markdown-loader": "^2.4.1"
+    "vue-markdown-loader": "^2.4.1",
+    "vue-router": "^3.3.2"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.4.0",
